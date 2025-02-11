@@ -76,3 +76,9 @@ your final essay. If you’ve completed them, you’re already halfway there!
 ---
 
 🎯 **Happy Writing!** Use this repository to stay organized and track your progress.
+-
+--------
+This is an edition of the text, for the homework
+
+This is boring 
+
